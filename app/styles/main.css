@@ -1,0 +1,31 @@
+body {
+    background: #fafafa;
+}
+button#searchButton
+{
+	/*float right;*/
+}
+
+div#charCount
+{
+	margin-top: 15px;
+}
+
+#header .btn {
+	margin: 17px 10px;
+}
+
+li.well {
+	width: 360px;
+	margin: 10px;
+	padding: 20px;
+}
+li.well .delete {
+	margin-top: 19px;
+}
+li.well h3 {
+	cursor: pointer;
+}
+.nav.nav-pills {
+	margin-top: 14px;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "keywordtool",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "underscore": "~1.4.3",
+    "backbone": "~1.0.0",
+    "backbone-localstorage": "~1.1.6",
+    "modernizr": "~2.6.2"
+  },
+  "devDependencies": {}
+}
+
